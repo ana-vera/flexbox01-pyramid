@@ -1,0 +1,22 @@
+.linea{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    margin: 0px;
+}
+
+
+
+.cuadrito{
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    border: black solid 2px;
+    margin:0px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
